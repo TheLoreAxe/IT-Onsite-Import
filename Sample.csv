@@ -1,0 +1,27 @@
+April IT Onsite,,,,
+,,,,
+Date,AM Office,PM Office,Who,DOW
+3/31,LCO,BLY,Eric,Monday
+4/1,CHP,IRM,Eric,Tuesday
+4/2,DEV,LEX,Eric,Wednesday
+4/3,KLG,SIG,Paul ,Thursday
+4/8,MN,MAN,Scott,Tuesday
+4/9,TRL,CBN,Scott,Wednesday
+4/10,GPW,,Scott,Thursday
+4/14,WI,FOLVR,Paul ,Monday
+4/15,DT,CC,Paul ,Tuesday
+4/16,LPR,DI,Paul ,Wednesday
+4/17,KSI,,Paul ,Thursday
+4/21,MPN,IOP,Eric,Monday
+4/23,COL,PCO,Scott,Wednesday
+,,,,
+,,,,
+TASKS,,,,
+#,IT,LES,,
+1,ms,,"DECIDE WHICH OFFICES WILL HAVE 1, 2, OR 3 IT ONSITES",
+2,ms,,CREATE THE MONTH'S SHEET FROM LIST SHEET,
+3,ms,,SCHEDULE KLG / SIG ON A THURSDAY,
+4,ms,,SCHEDULE KSI ON A THURSDAY,
+5,ms,,SCHEDULE GPW ON A THURSDAY,
+6,ms,,VERIFY DAYS OF THE MONTH THAT WILL HAVE IT ONSITE,
+7,ms,,PUT DATES ON MONTH'S SHEET,
